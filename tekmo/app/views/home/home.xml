@@ -1,0 +1,7 @@
+<Page>
+<StackLayout>
+<Label textWrap="true" class="title" text="Home Page" />
+<Button text="About" tap="goAbout" />
+<Button text="Contact Us" tap="goContactUs" />
+</StackLayout>
+</Page>
